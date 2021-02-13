@@ -75,4 +75,4 @@ Feel free to follow along by viewing the app in the browser, or installing it on
 - Creating a fully fledged app in 24 Hours would not have been possible if I didn't use glide apps, especially not alone. It makes making an app much faster and easier, so I could focus more time on the actual idea and solution.
 
 
-Crafted by Saad S
+Crafted by Mohd Mehraj
