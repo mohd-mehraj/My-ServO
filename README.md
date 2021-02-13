@@ -1,4 +1,4 @@
-# 🌎 ServO
+# 🌎 My ServO
 An app that connects personal service providers to clients
 This app was built using glide apps, which uses google sheets to construct apps.
 
@@ -15,13 +15,6 @@ clients to quickly and easily find service providers in their local area without
 businesses in selling their services just like postmates or uber eats helping local restaurants sell their food despite of COVID.
 - This app would be especially useful to people who don't have access to PayPay or credit cards (e.g. in developing countries) to make online transactions, because
 many of the services can be done in person and don't need online transactions. It simply is just an app to connect service providers with clients quickly and easily
-
-## 👇 Installation
-1. You can open the app in either your browser, or install it on a phone
-2. Go on [this link](https://tasty-mask-4026.glideapp.io/) to visit the app on the browser. It should display an iPhone screen, you may need to zoom out if the proportions of the app aren't fitting to the screen
-3. To install the app on your phone, scan the qr code which will open the app on the phone browser. If you're using iOS, visit the app link on **safari**, click share and add to home screen. On android, click the install button in the top right of the browser and it should install the app to your home screen
-4. You can now open and play around with the app. The app is just a prototype for a possible app, so the users on the app are just dummy accounts. 
-5. **IMPORTANT: If you want to see the inner workings of the app, send me an email (ssifa70423(at)kes.edu.kw) and I will add you as a member of the project so you can view and edit a copy of the apps workings**
 
 ## 📝 Features & Demo
 
